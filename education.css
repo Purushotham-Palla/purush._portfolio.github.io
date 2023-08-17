@@ -1,0 +1,16 @@
+.list p{
+    font-style: oblique;
+    color: aliceblue;
+    padding-left: 20px;
+    background: #3f3636;
+    translate: 30px;
+    border-width: 10px;
+
+}
+/* .menu1 a{
+    /* text-align: right; */
+    /* padding-left: 1400px; */
+    /* position: relative; */
+    /* background: #e3dddd; 
+        
+} */

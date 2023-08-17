@@ -1,0 +1,42 @@
+
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.res{
+
+    
+    text-align: right;
+   /* display: inline-block; */
+    padding-right: 80px;
+    
+    
+}
+.res a{
+    color: black;
+    text-decoration: none;
+    padding: 50px;
+}
+.follow{
+    text-align: right;
+    padding-right: 30px;
+    text-decoration: none;
+}
+.menu{
+    position: relative;
+    background: #e3dddd;
+    
+}
+.b{
+    font-family:cursive;
+    /* background-color: antiquewhite; */
+    border-width: 10px;
+}
+
+.menu1 a{
+    text-align: right;
+    /* padding-left: 1400px; */
+    position: relative;
+    /* background: #e3dddd; */
+        
+}

@@ -1,0 +1,30 @@
+*{
+    background-color:#C8E4B2;
+    margin: 5px;
+    
+    box-sizing: border-box;
+}
+/* .projts{
+    margin-left: 10px;
+    text-align: left;
+    /* padding-left: 50px; */
+    /* background-color: bisque; 
+} 
+*/
+.menu1 a{
+    text-align: right;
+    /* padding-left: 1400px; */
+    position: relative;
+    /* background: #e3dddd; */
+        
+}
+ /* menu{
+    text-align: left;
+    padding-left: 199px;
+ } */
+.projts dl{
+    font-size: medium;
+}
+/* .projts{
+
+} */
